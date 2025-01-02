@@ -8,18 +8,7 @@
 
 | Date       | Keywords   | Institute (first) | Paper                                                                                                                          | Publication | Code | Project |
 | ---------- | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------- | ---- | ------- |
-| 2024-03-01 | MDVP-Bench | Sun Yat-sen       | [Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](https://arxiv.org/pdf/2403.20271) |             |      |         |
-
-| [  ](https://arxiv.org/pdf/2403.20271) |   |   |   |
-| -------------------------------------- | - | - | - |
-
-| [  ](https://arxiv.org/pdf/2403.20271) |   |   |   |
-| -------------------------------------- | - | - | - |
-
-| [  ](https://arxiv.org/pdf/2403.20271) |   |   |   |
-| -------------------------------------- | - | - | - |
-
-| [  ](https://arxiv.org/pdf/2403.20271) | ArXiv 2024   | [Github](https://github.com/AFeng-x/Draw-and-Understand)        |                                                                                                                                                        |            |                                                                                       |   |
+| 2024-03-01 | MDVP-Bench | Sun Yat-sen       | [Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](https://arxiv.org/pdf/2403.20271) | ArXiv 2024   | [Github](https://github.com/AFeng-x/Draw-and-Understand)        |                                                                                                                                                        |            |                                                                                       |   |
 | -------------------------------------- | ------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------- | - |
 | 2023-11-01                             | ChEF         | OpenGVLab                                                       | [CHEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models        ](https://arxiv.org/pdf/2311.02692) | ArXiv 2023 | [Github        ](https://github.com/OpenGVLab/LAMM)                                   |   |
 | 2024-08-01                             | UniBench     | Facebook                                                        | [UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling        ](https://arxiv.org/pdf/2408.04810)                              | ArXiv 2024 | [Github        ](https://github.com/facebookresearch/unibench)                        |   |
