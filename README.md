@@ -2,6 +2,7 @@
 
 ##  Summary of 200 MLLM Benchmarks
 
+
 ### Perception&Understanding
 #### Comprehensive Evaluation
 ## Comprehensive Evaluation
